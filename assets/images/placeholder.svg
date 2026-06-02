@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#ece4d6"/>
+  <rect x="8" y="8" width="384" height="284" fill="none" stroke="#1d1a16" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="200" y="140" font-family="monospace" font-size="20" fill="#1d1a16" text-anchor="middle">YOUR IMAGE HERE</text>
+  <text x="200" y="170" font-family="monospace" font-size="13" fill="#6f6554" text-anchor="middle">drop a photo in assets/images/</text>
+</svg>
